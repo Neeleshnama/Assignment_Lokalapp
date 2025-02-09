@@ -19,12 +19,13 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: "center",
-    padding: 24,
+    padding: 44,
+    
   },
   main: {
     flex: 1,
     justifyContent: "center",
-    maxWidth: 960,
+    maxWidth: 1900,
     marginHorizontal: "auto",
   },
   title: {
